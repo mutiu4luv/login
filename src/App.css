@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+.con {
+  margin-right: 110px;
+}
+.input {
+  padding: 10px 60px;
+  margin-left: 90px;
+}
+.password {
+  margin-right: 140px;
+}
+.submit {
+  padding: 10px 120px;
+  margin-left: 90px;
+  background-color: blueviolet;
+  color: white;
+  margin-top: 10px;
+}
+input ::placeholder {
+  padding-right: -20px;
+}
